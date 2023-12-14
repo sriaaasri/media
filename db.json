@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Herbert Goldner",
+      "id": 1
+    },
+    {
+      "name": "Willie Parisian",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Ergonomic Bronze Sausages",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Cotton Gloves",
+      "id": 2
+    }
+  ],
+  "photos": []
+}
